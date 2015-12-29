@@ -13,3 +13,6 @@ a shell is simply a text interface for the computer and it takes in commands whi
 *rm : remove files and directory trees. it can be dangerous if we don’t know how to use it.
 *help: provides help
 #1.4 Forking and Cloning
+To create a new repo, first login to your Github account and at the right corner there is a plus sign. you click on that and a list appears then click on the create repository and follow the instruction from that point. forking a repo is kind of copying the file into a different repository (preferably your own username ) to work on changes and its done from the Github. Cloning a repository is a way of downloading the forked repository to your own computer using git command git clone on CLI in order for you to make the changes.
+Forking a repository is important when you want to propose changes to someone else’s project or when you want to continue from that point on. creating a repository is better when you are just beginning a new project with new ideas.
+I followed the instruction step by step when am setting up git so I didn’t have any difficulties at that point. I didn’t know what I was doing at the moment but it is getting clearer now. The question that is in my mind right now is am I able to fork the repository using git from the command line?
