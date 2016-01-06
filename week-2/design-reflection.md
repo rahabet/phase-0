@@ -1,3 +1,5 @@
+![Alt text](https://github.com/rahabet/phase-0/blob/master/week-2/imgs/SiteMap.JPG)
+
 1 What are the 6 Phases of Web Design?
 
   The 6 phases of web design are:
