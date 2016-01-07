@@ -1,4 +1,4 @@
-![Alt text](https://github.com/rahabet/phase-0/blob/master/week-2/imgs/Site-Map.png)
+![Alt text](imgs/Site-Map.png)
 
 1 What are the 6 Phases of Web Design?
 
