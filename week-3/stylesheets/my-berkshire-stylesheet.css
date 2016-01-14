@@ -49,3 +49,26 @@ footer span{
 .header{
   font-weight: bold;
 }
+/*
+
+• What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+  It is important to know the relationship between the file and html, the type of the document and the path where the file is located (href)
+
+• What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+  we used margins (left,right, bottom,up) and we used display. I would say its not hard but its kind of tedious and requires to know the elements better.
+
+• What CSS did you use to modify the element style (like size, color, etc.)
+
+  font-size, font-weight,color, text-align, background-color.
+
+• Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+   we used classes. because we had few elements that should receive the same styling.
+
+• When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+  I would say ours, because we used more of the semantic 5 html elements that makes the code readable and tried to follow the best practices such as validating the code, make sure we closed all the tags…
+
+*/
