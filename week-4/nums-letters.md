@@ -24,7 +24,9 @@ https://github.com/rahabet/phase-0/blob/master/week-4/defining-variables.rb
 *minutes in a decade*
 
   puts 60 * 24
+  
   puts  1440 * 365
+  
   puts  525600 * 10
 
 **How does Ruby handle addition, subtraction, multiplication, and division of numbers?**
