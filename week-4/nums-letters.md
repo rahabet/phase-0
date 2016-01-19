@@ -1,3 +1,8 @@
+
+https://github.com/rahabet/phase-0/blob/master/week-4/simple-string.rb
+
+https://github.com/rahabet/phase-0/blob/master/week-4/defining-variables.rb
+
 **What does puts do?**
 
   puts simply writes onto the screen whatever comes after it.
