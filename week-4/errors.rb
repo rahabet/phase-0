@@ -35,11 +35,11 @@ end
 
 # 5. Where is the error in the code?
 
-#    The interpretor did not expect the page to be over but an end at the end of 'write your  own reflection below as a comment.'
+#    The interpretor didn't know where the error is so it run through the document to the end to figure out where the end is missing.
 
 # 6. Why did the interpreter give you this error?
 
-#    am not sure but am guessing it's because we are missing an end at the end of the page.
+#    Because there is an $end keypoint missing in the file. def () with out end... so it was looping over.
 
 
 # --- error -------------------------------------------------------
