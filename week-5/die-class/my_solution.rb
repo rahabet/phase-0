@@ -33,10 +33,7 @@ end
 
 d1 = Die.new(6)
 
-p d1.sides == 6
-p d1.roll.is_a?(Integer) == true
-p (d1.roll >= 1) == true
-p (d1.roll <=6) == true
+
 
 
 # 3. Refactored Solution
