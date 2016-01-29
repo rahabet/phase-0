@@ -5,7 +5,7 @@
   #Steps :
     # create a container to hold all the names
     # slice the names into a group of 5 people
-    # print out the names in the new group
+    # print out the names in the new group along with the index
 
 #Initial Solution
 
