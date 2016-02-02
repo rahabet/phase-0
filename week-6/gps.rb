@@ -1,8 +1,8 @@
 # Your Names
 # 1)Bethelhem Assefa
-# 2)
+# 2)Eddie Beuno
 
-# We spent [#] hours on this challenge.
+# We spent 1 hour on this challenge.
 
 # Bakery Serving Size portion calculator.
 
