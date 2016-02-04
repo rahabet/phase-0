@@ -1,7 +1,7 @@
 # Class Warfare, Validate a Credit Card Number
 
 # I worked on this challenge with: Andria Reta .
-# I spent [#] hours on this challenge.
+# I spent [2] hours on this challenge.
 
 # Pseudocode
 #initialize
@@ -33,7 +33,7 @@
 # Output: boolean
 # Steps:
 # 1. IF total sum is divisible by 10 then return true
-     ELSE return false
+# ELSE return false
 
 # Initial Solution
 
