@@ -1,4 +1,4 @@
- // JavaScript Olympics
+// JavaScript Olympics
 
 // I paired with Patrick Skelly on this challenge.
 
@@ -71,7 +71,6 @@ console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps
 2)What are constructor functions?
     Constructor functions seem to build out the properties of an object.In a way they are similar to function declaration and are created like
             function myObject(){
-
             };
 3)How are constructors different from Ruby classes (in your research)?
    the constructor points to itself using the key word (this.) but in Ruby we have to initialize a method.
