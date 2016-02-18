@@ -4,16 +4,12 @@
 # Pseudocode
 # Input: a number.
 # Output: the fibonacci value of the input number
-# Steps: take number and check
-#        IF number is less than or equal to 1, and if it is RETURN 1
-#        ELSE output the sum of the previous values.
-
-# 1. define a method called is_fibonacci? that takes one argument
-# 2. assign n = 1 and m = 1
-# 3. until m >= argument calculate terms in the fibinacci sequence
-# 4. we want n to become m, and at the same time for  m = m+n
-# 5. end our until loop
-# 6. return true or false depending on if it's a fib number or not
+# Steps: define a method called is_fibonacci? that takes one argument
+#        assign n = 1 and m = 1
+#        until m >= argument calculate terms in the fibinacci sequence
+#        n to become m, and at the same time for  m = m+n
+#        end our until loop
+#        return true or false depending on if it's a fib number or not
 
 
 # Initial Solution
@@ -53,5 +49,5 @@ end
 2)What is still confusing to you about Ruby?
     working on JavaScript for the past week and now coming to Ruby, it got me confused on my use of syntaxes.
 3)What are you going to study to get more prepared for Phase 1?
-    I don't think if I ever have enought time to go throught the things I have in mind but I will try my best to atleast have a good grounding on the things we already covered.
+    I don't think if I ever have enough time to go through the things I have in mind but I will try my best to atleast have a good grounding on the things we already covered.
 =end
