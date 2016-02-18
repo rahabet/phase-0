@@ -8,7 +8,7 @@
 #        assign n = 1 and m = 1
 #        until m >= argument calculate terms in the fibinacci sequence
 #        n to become m, and at the same time for  m = m+n
-#        end our until loop
+#        end the until loop
 #        return true or false depending on if it's a fib number or not
 
 
