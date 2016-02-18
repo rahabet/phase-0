@@ -55,7 +55,30 @@ console.log(gradebook);
 
 // __________________________________________
 // Refactored Solution
+var gradebook = new Object();
 
+for (var x in students) {
+  gradebook[students[x]] = {};
+  gradebook[students[x]].testScores = scores[x];
+}
+
+gradebook.addScore = function(name,score){
+  gradebook[name].testScores.push(score);
+};
+
+gradebook.getAverage = function(name){
+  return average(gradebook[name].testScores);
+};
+
+function average(array) {
+  var sum = 0;
+  for (var i in array) {
+    sum += array[i];
+  }
+  return (sum/array.length);
+};
+
+console.log(gradebook);
 
 
 
