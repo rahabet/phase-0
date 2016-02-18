@@ -6,10 +6,11 @@
 # Output: the fibonacci value of the input number
 # Steps: define a method called is_fibonacci? that takes one argument
 #        assign n = 1 and m = 1
-#        until m >= argument calculate terms in the fibinacci sequence
+#        until m >= argument calculate terms in the fibonacci sequence
 #        n to become m, and at the same time for  m = m+n
 #        end the until loop
-#        return true or false depending on if it's a fib number or not
+
+#        return true or false depending on if it's a fibonacci number or not
 
 
 # Initial Solution
